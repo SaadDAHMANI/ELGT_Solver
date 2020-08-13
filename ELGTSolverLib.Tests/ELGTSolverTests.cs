@@ -1,7 +1,7 @@
 //*********************************************************************************
 // Written by : S.DAHMANI (s.dahmani@univ-bouira.dz - sd.dahmani2000@gmail.com) *
 // 
-// Reference :
+// References :
 // 1. Gupta, Rajiv and Prasad, TD (2000). Extended use of linear graph theory for 
 // analysis of pipe networks. American Society of Civil Engineers. Volume 126, 
 // pages 56--62. https://doi.org/10.1061/(ASCE)0733-9429(2000)126:1(56)
