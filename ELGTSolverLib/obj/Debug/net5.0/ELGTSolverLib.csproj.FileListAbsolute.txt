@@ -1,0 +1,9 @@
+G:\VS19_Apps\ELGT_Solver\ELGTSolverLib\bin\Debug\net5.0\ELGTSolverLib.deps.json
+G:\VS19_Apps\ELGT_Solver\ELGTSolverLib\bin\Debug\net5.0\ELGTSolverLib.dll
+G:\VS19_Apps\ELGT_Solver\ELGTSolverLib\bin\Debug\net5.0\ELGTSolverLib.pdb
+G:\VS19_Apps\ELGT_Solver\ELGTSolverLib\obj\Debug\net5.0\ELGTSolverLib.csprojAssemblyReference.cache
+G:\VS19_Apps\ELGT_Solver\ELGTSolverLib\obj\Debug\net5.0\ELGTSolverLib.AssemblyInfoInputs.cache
+G:\VS19_Apps\ELGT_Solver\ELGTSolverLib\obj\Debug\net5.0\ELGTSolverLib.AssemblyInfo.cs
+G:\VS19_Apps\ELGT_Solver\ELGTSolverLib\obj\Debug\net5.0\ELGTSolverLib.csproj.CoreCompileInputs.cache
+G:\VS19_Apps\ELGT_Solver\ELGTSolverLib\obj\Debug\net5.0\ELGTSolverLib.dll
+G:\VS19_Apps\ELGT_Solver\ELGTSolverLib\obj\Debug\net5.0\ELGTSolverLib.pdb

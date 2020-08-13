@@ -1,0 +1,16 @@
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\bin\Debug\net5.0\ELGTSolverConsole.exe
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\bin\Debug\net5.0\ELGTSolverConsole.deps.json
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\bin\Debug\net5.0\ELGTSolverConsole.runtimeconfig.json
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\bin\Debug\net5.0\ELGTSolverConsole.runtimeconfig.dev.json
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\bin\Debug\net5.0\ELGTSolverConsole.dll
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\bin\Debug\net5.0\ELGTSolverConsole.pdb
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\bin\Debug\net5.0\ELGTSolverLib.dll
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\bin\Debug\net5.0\ELGTSolverLib.pdb
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.csprojAssemblyReference.cache
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.AssemblyInfoInputs.cache
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.AssemblyInfo.cs
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.csproj.CoreCompileInputs.cache
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.csproj.CopyComplete
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.dll
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.pdb
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.genruntimeconfig.cache

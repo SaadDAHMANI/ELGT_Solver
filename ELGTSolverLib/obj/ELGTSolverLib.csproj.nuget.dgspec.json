@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\VS19_Apps\\ELGT_Solver\\ELGTSolverLib\\ELGTSolverLib.csproj": {}
+  },
+  "projects": {
+    "G:\\VS19_Apps\\ELGT_Solver\\ELGTSolverLib\\ELGTSolverLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\VS19_Apps\\ELGT_Solver\\ELGTSolverLib\\ELGTSolverLib.csproj",
+        "projectName": "ELGTSolverLib",
+        "projectPath": "G:\\VS19_Apps\\ELGT_Solver\\ELGTSolverLib\\ELGTSolverLib.csproj",
+        "packagesPath": "C:\\Users\\NetinfoTALI\\.nuget\\packages\\",
+        "outputPath": "G:\\VS19_Apps\\ELGT_Solver\\ELGTSolverLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NetinfoTALI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.6.20318.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

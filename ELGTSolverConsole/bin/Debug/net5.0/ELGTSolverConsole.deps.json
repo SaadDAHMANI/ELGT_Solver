@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ELGTSolverConsole/1.0.0": {
+        "dependencies": {
+          "ELGTSolverLib": "1.0.0"
+        },
+        "runtime": {
+          "ELGTSolverConsole.dll": {}
+        }
+      },
+      "ELGTSolverLib/1.0.0": {
+        "runtime": {
+          "ELGTSolverLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ELGTSolverConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ELGTSolverLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
