@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELGTSolverLib", "ELGTSolver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELGTSolverConsole", "ELGTSolverConsole\ELGTSolverConsole.csproj", "{F72705B6-8670-429F-BFE7-2A135B51DCE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELGTSolverLib.Tests", "ELGTSolverLib.Tests\ELGTSolverLib.Tests.csproj", "{319CACB2-5DD9-463A-BA17-FE6D74BDF038}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{F72705B6-8670-429F-BFE7-2A135B51DCE2}.Release|x64.Build.0 = Release|Any CPU
 		{F72705B6-8670-429F-BFE7-2A135B51DCE2}.Release|x86.ActiveCfg = Release|Any CPU
 		{F72705B6-8670-429F-BFE7-2A135B51DCE2}.Release|x86.Build.0 = Release|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Debug|x64.Build.0 = Debug|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Debug|x86.Build.0 = Debug|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Release|x64.ActiveCfg = Release|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Release|x64.Build.0 = Release|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Release|x86.ActiveCfg = Release|Any CPU
+		{319CACB2-5DD9-463A-BA17-FE6D74BDF038}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
