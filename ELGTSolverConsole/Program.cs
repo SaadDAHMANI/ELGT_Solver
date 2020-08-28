@@ -11,7 +11,8 @@
 // Volume 52, pages 43--49. https://doi.org/10.1016/j.aej.2012.11.005
 //
 //*********************************************************************************
-//
+// MathNet.Numerics lib from : https://numerics.mathdotnet.com/
+// Docs from : https://numerics.mathdotnet.com/Matrix.html
 //
 
 using System;
