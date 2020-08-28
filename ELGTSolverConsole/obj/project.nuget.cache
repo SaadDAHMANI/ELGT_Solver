@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "l7U/t7Sb1R6jQFh6NG8ph8JC5ogMUu4AhCmGlf3AaF/IJLq8E73S/wRj5lcjNbEJSDbUYow5XG7Qrcixe5Iaxg==",
+  "dgSpecHash": "mhScgDyCTDkmnGKATzHgPuaNSlBIEk91yZLOJjQQI6f2mGskiInkwT7lGLV93QuL+Ft5qqp4XSSOfbaEIXK/jA==",
   "success": true,
   "projectFilePath": "G:\\VS19_Apps\\ELGT_Solver\\ELGTSolverConsole\\ELGTSolverConsole.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\NetinfoTALI\\.nuget\\packages\\mathnet.numerics\\3.13.0\\mathnet.numerics.3.13.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'MathNet.Numerics 3.13.0' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet '.NETCoreApp,Version=v5.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "MathNet.Numerics",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v5.0"
+      ]
+    }
+  ]
 }

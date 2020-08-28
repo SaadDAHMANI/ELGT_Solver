@@ -14,3 +14,4 @@ G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.cs
 G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.dll
 G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.pdb
 G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\obj\Debug\net5.0\ELGTSolverConsole.genruntimeconfig.cache
+G:\VS19_Apps\ELGT_Solver\ELGTSolverConsole\bin\Debug\net5.0\MathNet.Numerics.dll

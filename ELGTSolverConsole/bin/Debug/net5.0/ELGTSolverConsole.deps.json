@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v5.0": {
       "ELGTSolverConsole/1.0.0": {
         "dependencies": {
-          "ELGTSolverLib": "1.0.0"
+          "ELGTSolverLib": "1.0.0",
+          "MathNet.Numerics": "3.13.0"
         },
         "runtime": {
           "ELGTSolverConsole.dll": {}
+        }
+      },
+      "MathNet.Numerics/3.13.0": {
+        "runtime": {
+          "lib/net40/MathNet.Numerics.dll": {
+            "assemblyVersion": "3.13.0.0",
+            "fileVersion": "3.13.0.0"
+          }
         }
       },
       "ELGTSolverLib/1.0.0": {
@@ -26,6 +35,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MathNet.Numerics/3.13.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cxAD2NMM7qSLI62sTu5u2KhoUuaKfxByiinWeCei5GqTT4cyMOXLyiQ3b0HfdPNt3oqjk1gGt+YeaS0c24IUwA==",
+      "path": "mathnet.numerics/3.13.0",
+      "hashPath": "mathnet.numerics.3.13.0.nupkg.sha512"
     },
     "ELGTSolverLib/1.0.0": {
       "type": "project",
