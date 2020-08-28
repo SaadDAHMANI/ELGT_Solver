@@ -35,7 +35,7 @@ namespace ELGTSolverConsole
         Console.WriteLine(p.GetStiffnessFactor(1));
         int n=5;
         int m=4;
-        double[,] S= new double[n,m];
+        double[,] S0= new double[n,m];
  //for(int i=0; i<n; i++)
  //{
  //for(int j=0; j<m; j++)
@@ -44,31 +44,45 @@ namespace ELGTSolverConsole
  //}
  //}
 
-        S[0,0]=-1;
-        S[0,1]=1;
-        S[1,1]=-1;
-        S[1,2]=1;
-        S[2,2]=-1;
-        S[2,3]=1;
-        S[3,0]=-1;
-        S[3,3]=1;
-        S[4,0]=-1;
-        S[4,2]=1;
+        S0[0,0]=-1;
+        S0[0,1]=1;
+        S0[1,1]=-1;
+        S0[1,2]=1;
+        S0[2,2]=-1;
+        S0[2,3]=1;
+        S0[3,0]=-1;
+        S0[3,3]=1;
+        S0[4,0]=-1;
+        S0[4,2]=1;
         
-        Matrix<double> A=DenseMatrix.OfArray(S);
-        Show(A.ToArray());    
+        Matrix<double> S=DenseMatrix.OfArray(S0);
+        Show(S.ToArray());    
 
-        double[] k=new double[n]; 
+        double[] k0=new double[n]; 
         for (int i=0; i<n;i++)
         {
-            k[i]=p.GetStiffnessFactor(1);
+            k0[i]=p.GetStiffnessFactor(1);
         }
 
-       Vector<double> B=DenseVector.OfArray(k);
-        Show(B.ToArray());
+       Vector<double> k=DenseVector.OfArray(k0);
+        Show(k.ToArray());
         
-        
+         Matrix<double> St= S.Transpose();
+        Show(St.ToArray());
 
+         var x=S.LeftMultiply(k);
+
+         var K=St.Multiply(x); 
+
+         Console.WriteLine("St*k matrix is : ");
+         Show(K.ToArray());
+
+
+
+        //Console.WriteLine("E is : ");
+         //var E=A.Multiply(D);
+
+ //Show(E.ToArray());
         }
     
 
