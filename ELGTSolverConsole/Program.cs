@@ -25,6 +25,10 @@ namespace ELGTSolverConsole
             ELGTSolver solver = new ELGTSolver();
             Console.WriteLine(solver.Version);
         
+        Pipe p = new Pipe();
+        Console.WriteLine(p.GetStiffnessFactor(1));
+        p.Flow=0.1;
+        Console.WriteLine (p.StiffnessFactor);
 
 
         }
