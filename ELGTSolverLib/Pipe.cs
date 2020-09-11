@@ -23,7 +23,7 @@ public double StiffnessFactor
 {
     get
     { 
-        if(Flow!=0) { return GetStiffnessFactor(Flow);}
+        if(Flow!=0) {return GetStiffnessFactor(Flow);}
         else {return double.NaN;}       
     }
 }
