@@ -97,7 +97,7 @@ namespace ELGTSolverConsole
         Console.WriteLine("Step 3. ----> [K] matrix is :");
         Show(K.ToArray());
         
-        // Step 4. Compute the unknowns (nodal heads and/or nodal flows) using (7) : [K][ht] = -[I][qt].
+        // Step 4. Compute the unknowns (nodal heads and/or nodal flows) using (7) : [K][ht] = -[I][qt]. ----- (no)
         // The identity matrix :
         Matrix<double> I = DenseMatrix.CreateIdentity(n);
         var tmp_ht=I.Multiply(-1).Multiply(qnt);                     
@@ -107,7 +107,7 @@ namespace ELGTSolverConsole
         var Kinv=K.Inverse();    
           Console.WriteLine(" [K]-1");
           Show(Kinv.ToArray());    
-          
+
         var ht =Kinv.Multiply(tmp_ht);
         Console.WriteLine(" Step 4. ---> ht = ");
         Show(ht.ToArray());
